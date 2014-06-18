@@ -28,6 +28,14 @@
     border: none !important;
 }
 
+#tab-list .flow-dropdown-item {
+    width: 200px !important;
+}
+
+#more {
+    padding: 0 95px !important;
+}
+
 .flow {
     position: absolute !important;
     padding: 0 !important;
