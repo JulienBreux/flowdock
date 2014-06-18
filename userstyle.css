@@ -29,6 +29,9 @@
 }
 
 .flow {
+    position: absolute !important;
     padding: 0 !important;
     left: 200px !important;
+    right: 0px !important;
+    width: auto !important;
 }
