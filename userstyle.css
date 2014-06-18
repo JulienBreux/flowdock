@@ -1,0 +1,34 @@
+#user-menu-toggle {
+    /*
+    background: no-repeat url(your-logo-here.png) 5px 5px !important;
+    */
+    width: 200px !important;
+}
+
+#tab-bar {
+    width: 200px !important;
+    height: 100% !important;
+    padding-right: 0 !important;
+}
+
+#tab-list {
+    width: 200px !important;
+    padding-right: 0 !important;
+    margin: 40px 0 0 0 !important;
+    overflow: auto !important;
+    height: 100% !important;
+}
+
+#tab-list .tab {
+    display: block !important;
+    min-width: 200px !important;
+}
+
+#tab-list .tab .tab-caret-wrapper:before  {
+    border: none !important;
+}
+
+.flow {
+    padding: 0 !important;
+    left: 200px !important;
+}
